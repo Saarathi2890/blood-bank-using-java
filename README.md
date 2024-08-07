@@ -1,1 +1,1 @@
-# test
+The app is developed on Android Studio using Java for execution and XML for designing. The database used is MySQL, which stores the data locally. For cloud storage, Firebase is used. The app utilizes various methods in Android Studio, such as Fragments, ImageView, and GridView.
